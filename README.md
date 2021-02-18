@@ -1,6 +1,8 @@
 # CSS: clamp and min
 
-Live:
+Live: https://mister-josuecedeno.github.io/css-clamp/
+
+![Large GIF (1100x434)](https://user-images.githubusercontent.com/47830532/108418107-65dfee80-71f6-11eb-9ff5-cea98580bd4f.gif)
 
 ## Objective
 
